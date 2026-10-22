@@ -1,3 +1,13 @@
+# 📄 Download the full article — PDF
+
+[![Download PDF](https://img.shields.io/badge/Download-Full%20Article%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rtmalikian/boomerang-effect-kratom-7oh/raw/main/article.pdf)
+
+### 👉 [**Click here to download the PDF**](https://github.com/rtmalikian/boomerang-effect-kratom-7oh/raw/main/article.pdf)
+
+*One click — no sign-up, no paywall. The full text is also embedded in this README below.*
+
+---
+
 # When a Warning Advertises: The Boomerang Effect in Anti-Drug Campaigns and the Case of Concentrated 7-Hydroxymitragynine (7-OH)
 
 **Anti-drug PSA boomerang effect | kratom and 7-OH policy | psychological reactance | DARE evaluation | addiction stigma and the disease model**
