@@ -31,7 +31,7 @@ The complete text is also embedded below.
 
 ## How to cite
 
-Malikian R. When a Warning Advertises: The Boomerang Effect in Anti-Drug Campaigns and the Case of Concentrated 7-Hydroxymitragynine. Commentary, 2026. GitHub: https://github.com/rtmalikian/boomerang-effect-kratom-7oh (Zenodo DOI to be added on deposit.)
+Malikian R. When a Warning Advertises: The Boomerang Effect in Anti-Drug Campaigns and the Case of Concentrated 7-Hydroxymitragynine. Commentary, 2026. GitHub: https://github.com/rtmalikian/boomerang-effect-kratom-7oh Zenodo preprint DOI: https://doi.org/10.5281/zenodo.23559292
 
 ## Author
 
